@@ -28,7 +28,7 @@ I love experimenting with new tools, using AI to work smarter, and building prod
 <h2 align="center">🧩 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,tailwind,bootstrap,html,css,nodejs,express,python,aws,firebase,postgres,mysql,mongodb,supabase,git,github,gitlab,vscode,docker,linux,figma,vercel,c,flask,firebase" height="150" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,tailwind,bootstrap,html,css,nodejs,express,python,aws,firebase,postgres,mysql,mongodb,supabase,git,github,gitlab,vscode,docker,linux,figma,vercel,c,flask" height="150" />
 </p>
 
 <p align="center"><b>AI Tools I Use Daily:</b> ChatGPT • Cursor • Windsurf • Bolt • Replit </p>
