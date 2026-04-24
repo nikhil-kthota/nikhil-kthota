@@ -48,7 +48,7 @@ A structured resource hub to help students access and organize notes easily.
 
 ## 🖥 Portfolio  
 My personal portfolio showcasing my work and build approach.  
-**Live:** https://nikhil-kthota.github.io/portfolio/
+**Live:** https://nikhilkthota.codes/
 
 ---
 
@@ -72,7 +72,7 @@ and contribute to real products.
   <a href="https://www.linkedin.com/in/nikhilkthota/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50">
   </a>
-  <a href="https://nikhil-kthota.github.io/portfolio/">
+  <a href="https://nikhilkthota.codes/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
